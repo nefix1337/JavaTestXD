@@ -2,7 +2,10 @@ package org.example;
 
 public class Siemson {
         public static void main(String[] args) {
-            System.out.println("Hello world!");
+            for(int i = 0; i <= 96; i++)
+            {
+                System.out.println( i + " XDXDXD");
+            }
         }
     }
 
